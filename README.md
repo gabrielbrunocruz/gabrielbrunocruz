@@ -1,38 +1,56 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F90B0B&height=120&section=header"/>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F90B0B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Bruno+da+Cruz;I'm+18+years+old;I+am+from+Belo+Horizonte,+MG;I+study+software+engeneering+at+PUC+Minas;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielbrunocruz&show_icons=true&count_private=true&hide_border=true&title_color=F90B0B&icon_color=F90B0B&text_color=FCFBFB&bg_color=0d1117" alt="Gabriel Bruno da Cruz github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbrunocruz&layout=compact&hide_border=true&title_color=F90B0B&text_color=F90b0b&bg_color=0d1117" />
+<div align="center">
+  <a href="www.linkedin.com/in/gabrielbrunodacruz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:gb3268147@gmail.com?subject=Contato" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielbrunocruz&bg_color=000000&color=F90B0B&line=F90B0B&point=FCFBFB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###
 
+<h1 align="center">👨🏽‍💻 Gabriel Bruno</h1>
 
+###
 
+<h6 align="center">Engenharia de software</h6>
 
+###
 
+<h3 align="left">Olá! Eu sou o Gabriel👋</h3>
 
+###
 
- 
+<p align="left">Atualmente, curso Engenharia de Software na PUC Minas. Este perfil é o espaço onde documento minha jornada no mundo do desenvolvimento, compartilhando meus projetos práticos e registrando cada passo da minha evolução técnica.<br><br>🚀 Objetivo: Aplicar os princípios da engenharia para desenvolver o futuro, um commit por vez.</p>
 
-### Tools:
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
- 
-  
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+###
 
+<h3 align="left">🛠 Language and tools</h3>
 
+###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F90B0B&height=120&section=footer"/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+</div>
+
+###
